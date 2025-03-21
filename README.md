@@ -50,3 +50,9 @@ streamlit run zocket_agent.py
    - Key Insights (Sentiment, Ad Potential, Keywords)
    - Content Metrics (Word Count, Positive/Negative Signals)
    - Recommendations (e.g., "Boost ad spend")
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/46ec3f53-3093-4415-8712-cc4bd3dbf44c)
+
+![image](https://github.com/user-attachments/assets/f4caf1e5-3ad5-42ca-8574-4aeac5f7d558)
